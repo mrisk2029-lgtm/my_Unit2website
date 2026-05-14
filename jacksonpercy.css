@@ -1,0 +1,46 @@
+body {
+  background: #e8f5ff;
+}
+}
+p {
+  margin: 10px;
+  font-size: 20px;
+  color: #103857
+}
+
+
+
+}
+h1 {
+  font-weight: bold;
+  color: #1c4f7b
+}
+
+h6 {
+
+}
+
+img { 
+  float: right;
+  width: 150px;
+    margin: 10px;
+  border: 10px solid transparent;
+  border-color: #375369;
+  border-width:medium;
+}
+
+h5 {
+   color: white
+}
+hr {
+  width: 100%;
+}
+
+.right {
+  float: right
+}
+
+.left {
+  float: left
+
+}

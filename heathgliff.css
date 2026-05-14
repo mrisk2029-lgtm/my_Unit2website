@@ -1,0 +1,45 @@
+body {
+  background: #e6dfeb;
+}
+p {
+  margin: 10px;
+  text-align: ;
+  font-size: 18px;
+  color: #453d4b
+  
+   
+  
+  
+}
+h1 {
+  font-weight: bold;
+  color: #5e5167
+}
+
+h6 {
+  color: #69466c
+}
+
+img { 
+  float: right;
+  width: 200px;
+  margin: 10px;
+  border: 10px solid transparent;
+  border-color: #69466c;
+  border-width:medium;
+}
+
+
+hr {
+  width: 100%;
+}
+
+.right {
+  float: right
+}
+
+.left {
+  float: left
+  
+  
+}

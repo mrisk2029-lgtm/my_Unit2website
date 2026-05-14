@@ -1,0 +1,27 @@
+body {
+  background: #f9f1ed;
+}
+p {
+  color: black;
+}
+h1 {
+  font-weight: bold;
+}
+
+img {
+  width:300px
+    
+}
+h2 {
+  font-weight: normal
+}
+.left {
+  margin: left
+}
+
+.credit {
+  font-size: 12px
+}
+.bigger {
+  font-size: 48px
+}
